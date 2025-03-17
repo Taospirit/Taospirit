@@ -1,5 +1,8 @@
 ## Hi there 👋
+## Not because they are easy
 
+- 游戏ai，深度强化学习从业者
+- 自动驾驶
 <!--
 **Taospirit/Taospirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
